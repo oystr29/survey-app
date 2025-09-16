@@ -3,7 +3,7 @@
 Install dependencies
 
 ```bash
-npm i /* or pnpm i*/
+npm i # or pnpm i
 ```
 
 Run the project
