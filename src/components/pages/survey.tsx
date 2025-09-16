@@ -62,8 +62,8 @@ const SurveyCard = () => {
   return (
     <>
       <div className="max-w-3xl bg-white w-full p-4 pt-10 rounded-lg flex-1">
-        <div className="flex items-center justify-between">
-          <h1 className="text-4xl font-medium text-gray-400 mb-4">
+        <div className="flex items-center justify-between  mb-4">
+          <h1 className="text-4xl font-medium text-gray-400">
             Q{currentQuestion + 1}
           </h1>
           <Countdown />
