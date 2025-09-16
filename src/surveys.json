@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "question": "How satisfied are you with our product?",
+      "answers": [
+        "Very satisfied",
+        "Neutral",
+        "Not satisfied"
+      ]
+    },
+    {
+      "question": "How often do you use our service?",
+      "answers": [
+        "Daily",
+        "Weekly",
+        "Rarely"
+      ]
+    },
+    {
+      "question": "How easy was it to navigate our website?",
+      "answers": [
+        "Very easy",
+        "Somewhat easy",
+        "Difficult"
+      ]
+    },
+    {
+      "question": "How likely are you to recommend us to a friend?",
+      "answers": [
+        "Very likely",
+        "Maybe",
+        "Not likely"
+      ]
+    },
+    {
+      "question": "What do you think of our customer support?",
+      "answers": [
+        "Excellent",
+        "Average",
+        "Poor"
+      ]
+    },
+    {
+      "question": "How do you feel about our pricing?",
+      "answers": [
+        "Affordable",
+        "Fair",
+        "Expensive"
+      ]
+    },
+    {
+      "question": "Which feature do you value the most?",
+      "answers": [
+        "Ease of use",
+        "Performance",
+        "Design"
+      ]
+    },
+    {
+      "question": "How would you rate the quality of our service?",
+      "answers": [
+        "High quality",
+        "Acceptable",
+        "Low quality"
+      ]
+    },
+    {
+      "question": "Do our products meet your expectations?",
+      "answers": [
+        "Yes, absolutely",
+        "Somewhat",
+        "Not at all"
+      ]
+    },
+    {
+      "question": "What’s your overall experience with us?",
+      "answers": [
+        "Very positive",
+        "Neutral",
+        "Negative"
+      ]
+    }
+  ]
+}
