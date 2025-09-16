@@ -19,6 +19,6 @@ npm run dev
 + Can not go back to previous question ✅
 + Should keep the answer data even though user refresh the page ✅
 + Have a timer ✅
-+ Will redirect into the end page whenever user finish the survey or when user running✅
-out of time
++ Will redirect into the end page whenever user finish the survey or when user running
+out of time✅
 + Can restart the survey ✅
